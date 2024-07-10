@@ -1,1 +1,1 @@
-# Odin-recipe
+# django
